@@ -5,7 +5,7 @@
 //Comp Sci 2 per 1
 public class Ch1L1_Poem{
     public static void main(String args[]){
-        System.out.println("new edit");
+        System.out.println("Sam wrote a new haiku");
         System.out.println("It has lots of syllables");
         System.out.println("That was my haiku");
     }
